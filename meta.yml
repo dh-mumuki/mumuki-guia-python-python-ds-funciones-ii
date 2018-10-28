@@ -1,9 +1,9 @@
 ---
-name: Python-DS-Funciones-II
+name: Python-Funciones-II
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: python
 id_format: "%05d"
 order: []
