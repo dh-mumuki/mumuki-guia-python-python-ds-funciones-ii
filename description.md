@@ -16,12 +16,12 @@ Veamos los posibles llamados a esta función.
 for numero in [1,2,3,4,5]:
     print(entero_par(numero))
 ```
-  _Salida:_
-**False**
-**True**
-**False**
-**True**
-**False**
+  _Salida:_<br>
+**>>False**<br>
+**>>True**<br>
+**>>False**<br>
+**>>True**<br>
+**>>False**<br>
 
 Ahora vamos a definir una función que toma un número `num` y devuelve una lista en donde cada posición es el resultado de potenciar el número, con el valor de la posición.
 
