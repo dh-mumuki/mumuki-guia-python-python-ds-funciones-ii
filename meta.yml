@@ -7,3 +7,4 @@ teacher_info: ''
 language: python
 id_format: "%05d"
 order: []
+private: false
